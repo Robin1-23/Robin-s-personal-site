@@ -1,0 +1,97 @@
+  body{
+  /*background-color: #B7E5DD;*/
+  margin:0px ;
+  font-family: 'Merriweather', serif;
+
+}
+
+.top{
+  background-color: #B7E5DD;
+  margin-top:0px ;
+  font-family: 'Merriweather', serif;
+
+}
+.bottom-container{
+  background-color: #B7E5DD;
+ margin-bottom:0px ;
+ 
+}
+
+.pro{
+  font-family: cursive;
+  font-style: italic;
+  color: brown;
+}
+
+.cloud{
+  display: inline-block;
+}
+
+.heading{
+  font-family:'Sacramento', cursive;
+  color: red;
+  width: 40%;
+  
+}
+
+#c2{
+  visibility: hidden;
+}
+
+
+
+#c5{
+  position: relative;
+  left:200px ;
+
+}
+ 
+#c3{
+  position: relative;
+  left: 1000px;
+}
+
+h1:hover{
+  color: #464E2E;
+}
+
+.img1{
+  width: 200px;
+  clip-path: circle();
+
+}
+ .images{
+   width: 200px;
+   clip-path: circle();
+ }
+
+ hr{
+   border-style: dotted;
+   border-color: white;
+   border-top: 0px;
+   width: 100px;
+   border-width: 10px;
+   
+ }
+
+ .footer-link{
+   text-decoration: none;
+ }
+
+ .footer-link:hover{
+   color: red;
+ }
+ .btn:hover{
+   color: red;
+ }
+ .chillies{
+   position:absolute;
+
+  
+  
+   width: 200px;
+   
+ }
+ .middle-container{
+   background-color: #F9EBC8;
+ }
